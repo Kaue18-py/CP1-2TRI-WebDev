@@ -1,7 +1,7 @@
 # Referências visuais
 
 Quatro produtos digitais foram usados como referência. Nenhum é do universo de séries por
-acaso: o problema do Continua é de **retomada e progresso**, e os produtos que melhor
+acaso: o problema do Metflix é de **retomada e progresso**, e os produtos que melhor
 resolvem isso estão em música, educação, saúde e cinema.
 
 Para cada um: o que foi observado, onde entrou na nossa interface e por que é adequado.
@@ -22,7 +22,7 @@ um cartão grande no topo, com pôster, nome e o próximo episódio já calculad
 (`CartaoRetomada`). Para isso, cada série guarda o campo `atualizadoEm`, e a estante é
 ordenada por ele antes de renderizar.
 
-**Por que é adequado.** É exatamente a hipótese do nosso produto. Quem abre o Continua abre
+**Por que é adequado.** É exatamente a hipótese do nosso produto. Quem abre o Metflix abre
 porque vai assistir a alguma coisa agora, e na maioria das vezes é a série que estava
 assistindo ontem. Ordenar por recência transforma a resposta principal em zero cliques. Se
 a tela inicial fosse uma busca ou uma grade em ordem alfabética, o produto devolveria à
