@@ -99,6 +99,6 @@ a informação é útil.
 ## O que ficou de fora e por quê
 
 **Netflix** foi descartada como referência: a tela dela é feita para você escolher entre
-milhares de títulos, e o Continua é feito para você não precisar escolher nada. Copiar as
+milhares de títulos, e o MetFlix é feito para você não precisar escolher nada. Copiar as
 fileiras infinitas de carrosséis empurraria o produto para descoberta, que não é o problema
 escolhido.
