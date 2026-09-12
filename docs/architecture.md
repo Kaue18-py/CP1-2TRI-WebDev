@@ -68,17 +68,17 @@ Uma série salva na estante:
 
 ```js
 {
-  id: 1399,                    // id no TMDB
+  id: 1399,          
   nome: "Game of Thrones",
-  poster: "/caminho.jpg",      // caminho relativo do TMDB
-  duracaoMedia: 57,            // minutos por episódio
-  totalEpisodios: 73,          // soma das temporadas regulares
-  temporadas: [                // usado para calcular o próximo episódio
+  poster: "/caminho.jpg",    
+  duracaoMedia: 57,            
+  totalEpisodios: 73,          
+  temporadas: [              
     { numero: 1, total: 10 },
     { numero: 2, total: 10 }
   ],
-  vistos: ["1-1", "1-2", "2-1"],  // "temporada-episodio"
-  atualizadoEm: 1757600000000     // define quem vai para o destaque
+  vistos: ["1-1", "1-2", "2-1"],
+  atualizadoEm: 1757600000000    
 }
 ```
 
