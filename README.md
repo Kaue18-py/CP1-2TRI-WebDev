@@ -28,7 +28,7 @@ E quanto mais séries em andamento, pior fica.
 
 ## A solução
 
-O Continua resolve uma pergunta só, e resolve em zero cliques: "em que episódio eu
+O Metflix resolve uma pergunta só, e resolve em zero cliques: "em que episódio eu
 parei?"
 
 Você marca os episódios que assistiu. O app calcula o primeiro episódio não assistido de
