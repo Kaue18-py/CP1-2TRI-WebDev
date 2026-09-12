@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O Continua resolve uma pergunta específica de quem acompanha várias séries ao mesmo
+O Metflix resolve uma pergunta específica de quem acompanha várias séries ao mesmo
 tempo: **"em que episódio eu parei?"**.
 
 Com o fim do TV Time, quem acompanhava seis, sete séries em paralelo perdeu o registro
