@@ -12,8 +12,8 @@ Lucca Braga - RM:571044
 João Pedro - RM:571827
 ## Links
 
-- **Repositório:** *preencher*
-- **Site publicado:** *preencher*
+- **Repositório: (https://github.com/WebDev-JS-e-React/projeto-loja-virtual.git)
+- **Site publicado: https://cp-1-2-tri-web-dev.vercel.app/buscar
 
 ## O problema
 
@@ -82,7 +82,7 @@ Todas as chamadas usam `language=pt-BR`.
 1. Clone o repositório e entre na pasta:
 
    bash
-   git clone <url-do-repositorio>
+   git clone <(https://github.com/WebDev-JS-e-React/projeto-loja-virtual.git)>
    cd continua
    
 
